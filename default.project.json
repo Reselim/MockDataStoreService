@@ -1,5 +1,5 @@
 {
-  "name": "DataStoreService",
+  "name": "MockDataStoreService",
   "tree": {
     "$path": "lib"
   }
